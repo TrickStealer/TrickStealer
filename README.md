@@ -1,6 +1,6 @@
 ![Header](https://github.com/TrickStealer/TrickStealer/blob/main/assets/header.png)
 
-About me
+## I am a QA Engineer
 
 Languages and Tools
 
