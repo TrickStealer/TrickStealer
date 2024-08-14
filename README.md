@@ -7,4 +7,4 @@
 ![Static Badge](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=Jira&logoColor=%2306c) ![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git) ![Static Badge](https://img.shields.io/badge/Perforce-white?style=for-the-badge&logo=Perforce&logoColor=black) ![Static Badge](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman) ![Static Badge](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=black)
 
 ### Follow Me
-![Static Badge](https://img.shields.io/badge/Linked_In-white?style=for-the-badge&logo=linkedin&logoColor=%2306c&link=%3Cobject%3Ehttps%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-pritykin-70152430b%2F%3C%2Fobject%3E)
+[![Static Badge](https://img.shields.io/badge/Linked_In-white?style=for-the-badge&logo=linkedin&logoColor=%2306c&link=%3Cobject%3Ehttps%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-pritykin-70152430b%2F%3C%2Fobject%3E)](https://www.linkedin.com/in/igor-pritykin-70152430b/)
