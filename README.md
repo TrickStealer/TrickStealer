@@ -2,7 +2,7 @@
 
 I am a QA Engineer with more than 4 years experience in testing.
 
-**[My CV](https://drive.google.com/file/d/1aaxlsC83btmp9NQotAr0H2qUcTpDWvNm/view?usp=sharing)**
+###[My CV](https://drive.google.com/file/d/1aaxlsC83btmp9NQotAr0H2qUcTpDWvNm/view?usp=sharing)
 
 ### Testing documentation
 * [Mobile application testing checklist](https://drive.google.com/file/d/1bZmJuO6UUETnWhzSQZRrzqPaP7l-g6AE/view?usp=sharing)
