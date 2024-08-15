@@ -4,6 +4,9 @@
 
 ### [My CV](https://drive.google.com/file/d/1aaxlsC83btmp9NQotAr0H2qUcTpDWvNm/view?usp=sharing)
 
+### Testing documentation
+* [Mobile application testing checklist](https://drive.google.com/file/d/1bZmJuO6UUETnWhzSQZRrzqPaP7l-g6AE/view?usp=sharing)
+
 ### Automated tests projects
 * [Homework for the course about making web autotests using Python and Selenium ](https://github.com/TrickStealer/Stepik_auto_tests_course)
 
