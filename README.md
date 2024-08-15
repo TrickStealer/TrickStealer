@@ -6,6 +6,7 @@ I am a QA Engineer with more than 4 years experience in testing.
 
 ### Testing documentation
 * [Mobile application testing checklist](https://drive.google.com/file/d/1bZmJuO6UUETnWhzSQZRrzqPaP7l-g6AE/view?usp=sharing)
+* [Website test cases](https://drive.google.com/file/d/1uGJycMipwXjEoFEON6gDZfFfAXEXDRHq/view?usp=drive_link)
 
 ### Automated tests projects
 * [Homework for the course about making web autotests using Python and Selenium ](https://github.com/TrickStealer/Stepik_auto_tests_course)
