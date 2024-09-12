@@ -11,10 +11,11 @@
 
 ## Automated tests projects
 
-* [Homework for the course about making web autotests using Python and Selenium ](https://github.com/TrickStealer/Stepik_auto_tests_course)
+* [Python and Selenium homework for the course](https://github.com/TrickStealer/Stepik_auto_tests_course)
+* [Postman collection](https://elements.getpostman.com/redirect?entityId=37663202-5ef79cb8-c2a3-41cf-bc38-f1173fd083c8&entityType=collection)
 
 ## Coding projects
-* [Script to show difference between two files](https://github.com/TrickStealer/text_files_difference) (sometimes i need tool like this in testing tasks)
+* [Python script to explicit show difference between two files](https://github.com/TrickStealer/text_files_difference)
 
 ## Languages and Tools
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/java_script-white?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=%23039) ![Static Badge](https://img.shields.io/badge/Selenium_WebDriver-white?style=for-the-badge&logo=selenium) ![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge)  
