@@ -12,7 +12,7 @@
 ## Automated tests projects
 
 * [Python and Selenium homework for the course](https://github.com/TrickStealer/Stepik_auto_tests_course)
-* [Postman collection](https://elements.getpostman.com/redirect?entityId=37663202-5ef79cb8-c2a3-41cf-bc38-f1173fd083c8&entityType=collection)
+* [Postman collection](https://www.postman.com/avionics-engineer-8131377/workspace/igor-s-workspace/collection/37663202-5ef79cb8-c2a3-41cf-bc38-f1173fd083c8?action=share&creator=37663202&active-environment=37663202-a0b311fe-544e-4da2-acc1-2b61156b5835)
 
 ## Coding projects
 * [Python script to explicit show difference between two files](https://github.com/TrickStealer/text_files_difference)
