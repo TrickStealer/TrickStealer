@@ -6,15 +6,18 @@
 <br/>
 
 ## Testing documentation  
-* [Mobile application testing checklist](https://drive.google.com/file/d/1bZmJuO6UUETnWhzSQZRrzqPaP7l-g6AE/view?usp=sharing)
-* [Website test cases](https://drive.google.com/file/d/1uGJycMipwXjEoFEON6gDZfFfAXEXDRHq/view?usp=drive_link)
+* [Website "Finance" testing check-list](https://docs.google.com/spreadsheets/d/1zYroPo_W-m-psTZtgbVmRI5Bz9JswnAZYHIBeZQvny8/edit?usp=sharing)
+* [Website "Finance" bug-reports](https://docs.google.com/document/d/1e2j81dHhenTu78yEVQRoDCOvwQURorCzI7RFj2WwEvw/edit?usp=sharing)
+* [Mobile application "Krumod" testing checklist](https://drive.google.com/file/d/1bZmJuO6UUETnWhzSQZRrzqPaP7l-g6AE/view?usp=sharing)
+* [Website "Yandex Translate" test cases](https://drive.google.com/file/d/1uGJycMipwXjEoFEON6gDZfFfAXEXDRHq/view?usp=drive_link)
 
 ## Automated tests projects
 
-* [Python and Selenium homework for the course](https://github.com/TrickStealer/Stepik_auto_tests_course)
+* [Cypress e2e testing of website "Finance"](https://github.com/TrickStealer/cypress_test_task)
 * [Postman collection](https://www.postman.com/avionics-engineer-8131377/workspace/igor-s-workspace/collection/37663202-5ef79cb8-c2a3-41cf-bc38-f1173fd083c8?action=share&creator=37663202&active-environment=37663202-a0b311fe-544e-4da2-acc1-2b61156b5835)
+* [Python and Selenium homework for the course](https://github.com/TrickStealer/Stepik_auto_tests_course)
 
-## Coding projects
+## Application development projects
 * [Python script to explicit show difference between two files](https://github.com/TrickStealer/text_files_difference)
 
 ## Languages and Tools
