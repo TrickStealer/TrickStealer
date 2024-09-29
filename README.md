@@ -1,6 +1,6 @@
 ![Header](https://github.com/TrickStealer/TrickStealer/blob/main/assets/header.png)
 
-### I am a QA Engineer with more than 4 years experience in testing.
+### I am a QA Engineer.
 
 ### [My CV](https://drive.google.com/file/d/1m1-tpmpWN4hUHVSPbMmIrH8wb-C6YKJm/view?usp=sharing)
 <br/>
