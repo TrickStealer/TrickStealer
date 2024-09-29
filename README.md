@@ -3,7 +3,6 @@
 ### I am a QA Engineer.
 
 ### [My CV](https://drive.google.com/file/d/1AABE6CZ_ioTm1pVJysZKw2ZagpR6gPZK/view?usp=drive_link)
-<br/>
 
 ## Testing documentation  
 * [Website "Finance" testing check-list](https://docs.google.com/spreadsheets/d/1zYroPo_W-m-psTZtgbVmRI5Bz9JswnAZYHIBeZQvny8/edit?usp=sharing)
